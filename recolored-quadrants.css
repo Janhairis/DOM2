@@ -1,0 +1,6 @@
+#topRight, #topLeft, #bottomLeft, #bottomRight{
+    height:305px;
+    width:49%;
+    border: .25px solid;
+    float: left;
+}
